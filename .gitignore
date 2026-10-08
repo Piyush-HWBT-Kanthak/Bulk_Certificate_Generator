@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+app.db
+media/
+assets/
+.pytest_cache/

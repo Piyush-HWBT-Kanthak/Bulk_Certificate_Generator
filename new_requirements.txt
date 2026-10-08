@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+Pillow>=10.1
+pytest
+httpx
